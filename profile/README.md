@@ -1,4 +1,4 @@
-# KoriChat
+# KouriChat
 可能是你最好的Ai伴侣
 
 Fleeting Moment “My Dream Moments"
@@ -10,6 +10,8 @@ KouriChat 是一个致力于提供高效、便捷的聊天解决方案的开源�
 ## 如何贡献
 
 我们欢迎任何形式的贡献！如果您有兴趣为 KouriChat 做出贡献，请参阅我们的 [贡献指南](CONTRIBUTING.md)。
+
+或者加入我们的开发群:1030124600
 
 ## 许可证
 
