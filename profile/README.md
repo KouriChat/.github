@@ -1,18 +1,11 @@
-# KouriChat/.github
+# KoriChat
+可能是你最好的Ai伴侣
 
-欢迎访问 **KouriChat** 的 `.github` 仓库！这是一个特殊的仓库，用于存储组织级别的配置文件和文档。本 `README.md` 文件将显示在 KouriChat 的公共组织资料页面上，供所有人查看。
+Fleeting Moment “My Dream Moments"
 
 ## 关于 KouriChat
 
 KouriChat 是一个致力于提供高效、便捷的聊天解决方案的开源项目。我们的目标是构建一个功能强大且易于扩展的聊天平台，适用于各种应用场景。
-
-## 仓库用途
-
-`.github` 仓库通常用于存储以下内容：
-- **工作流配置文件**：用于定义 GitHub Actions 的工作流。
-- **问题模板**：用于标准化问题的提交格式。
-- **拉取请求模板**：用于标准化拉取请求的提交格式。
-- **社区健康文件**：如 `CODE_OF_CONDUCT.md`、`CONTRIBUTING.md` 等。
 
 ## 如何贡献
 
